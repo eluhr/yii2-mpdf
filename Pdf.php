@@ -6,7 +6,7 @@
  * @version 1.0.1
  */
 
-namespace kartik\mpdf;
+namespace eluhr\mpdf;
 
 use Yii;
 use yii\base\Component;
